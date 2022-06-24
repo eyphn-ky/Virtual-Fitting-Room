@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "858343470081",
+    "firebase_url": "https://unity3d-4b03e-default-rtdb.firebaseio.com",
+    "project_id": "unity3d-4b03e",
+    "storage_bucket": "unity3d-4b03e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858343470081:android:37748e3a77c9e91b20bc00",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.VirtualFittingRoom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858343470081-fns0j7d9shnpnvgek1bod7posrdq6i9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1pmNTiJ61ld-mnjDudxvPNp-oFFWIYJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858343470081-fns0j7d9shnpnvgek1bod7posrdq6i9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
